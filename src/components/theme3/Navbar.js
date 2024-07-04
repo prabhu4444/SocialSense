@@ -1,6 +1,6 @@
 "use client"
 import Image from 'next/image';
-import profile from "../../assets/Profile.png";
+import profile from "@/assets/profile.png";
 import React, { useState } from 'react';
 import { FaBell, FaCog, FaSearch, FaBars, FaTimes } from 'react-icons/fa';
 
